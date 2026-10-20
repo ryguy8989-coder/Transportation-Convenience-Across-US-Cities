@@ -31,6 +31,7 @@ Our goal is to understand whether growing cities are becoming more convenient fo
 - GeoPandas
 - Matplotlib and Seaborn
 - Jupyter Notebook
+- Google Colab
 
 ## Repository Contents
 
